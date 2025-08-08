@@ -1,0 +1,14 @@
+{
+  "esp32_board.jpg": {
+    "name": "ESP32 Board",
+    "description": "A microcontroller module with built-in Wi-Fi and Bluetooth, used for IoT projects, embedded systems, and robotics."
+  },
+  "switch.jpg": {
+    "name": "Switch",
+    "description": "An electrical component that opens or closes a circuit, controlling the flow of electricity to a device."
+  },
+  "usb_port.jpg": {
+    "name": "USB Power Port",
+    "description": "A connector used to supply power and data transfer, commonly for charging devices or powering electronics."
+  }
+}
