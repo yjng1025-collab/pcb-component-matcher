@@ -1,4 +1,5 @@
-flask
-opencv-python
-numpy
-scikit-image
+flask==3.0.3
+opencv-python==4.9.0.80
+numpy==1.26.4
+scikit-image==0.23.2
+pillow==10.4.0
