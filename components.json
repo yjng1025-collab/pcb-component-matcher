@@ -1,14 +1,66 @@
 {
-  "esp32_board.jpg": {
+  "FPC上接连接器_front.jpg": {
+    "name": "FPC上接连接器",
+    "description": "一种柔性印刷电路板（FPC）连接器，常用于连接显示屏、摄像头等模块到主板，提供可靠的高速信号传输。"
+  },
+  "FPC上接连接器_back.jpg": {
+    "name": "FPC上接连接器",
+    "description": "一种柔性印刷电路板（FPC）连接器，常用于连接显示屏、摄像头等模块到主板，提供可靠的高速信号传输。"
+  },
+  "麦克风_front.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "麦克风_back.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "麦克风_front1.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "麦克风_front2.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "麦克风_front3.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "麦克风_front4.jpg": {
+    "name": "麦克风",
+    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+  },
+  "接插件连接器端子_front.jpg": {
+    "name": "接插件连接器端子",
+    "description": "一种电气连接器端子，用于在电路板之间或与外部设备建立可拆卸的电连接。"
+  },
+  "接插件连接器端子_back.jpg": {
+    "name": "接插件连接器端子",
+    "description": "一种电气连接器端子，用于在电路板之间或与外部设备建立可拆卸的电连接。"
+  },
+  "esp32_board_front.jpg": {
     "name": "ESP32 Board",
-    "description": "A microcontroller module with built-in Wi-Fi and Bluetooth, used for IoT projects, embedded systems, and robotics."
+    "description": "一款集成 Wi-Fi 和蓝牙的微控制器开发板，广泛用于物联网、嵌入式系统和机器人项目。"
   },
-  "switch.jpg": {
-    "name": "Switch",
-    "description": "An electrical component that opens or closes a circuit, controlling the flow of electricity to a device."
+  "esp32_board_back.jpg": {
+    "name": "ESP32 Board",
+    "description": "一款集成 Wi-Fi 和蓝牙的微控制器开发板，广泛用于物联网、嵌入式系统和机器人项目。"
   },
-  "usb_port.jpg": {
-    "name": "USB Power Port",
-    "description": "A connector used to supply power and data transfer, commonly for charging devices or powering electronics."
+  "type_c_usb_port_front.jpg": {
+    "name": "Type-C USB Port（供电使用）",
+    "description": "一种 USB Type-C 接口，用于供电或数据传输，具有正反可插特性，常用于现代电子设备。"
+  },
+  "type_c_usb_port_back.jpg": {
+    "name": "Type-C USB Port（供电使用）",
+    "description": "一种 USB Type-C 接口，用于供电或数据传输，具有正反可插特性，常用于现代电子设备。"
+  },
+  "轻触开关_front.jpg": {
+    "name": "轻触开关",
+    "description": "一种小型瞬时按键开关，常用于用户输入控制，例如复位键或功能键。"
+  },
+  "轻触开关_back.jpg": {
+    "name": "轻触开关",
+    "description": "一种小型瞬时按键开关，常用于用户输入控制，例如复位键或功能键。"
   }
 }
