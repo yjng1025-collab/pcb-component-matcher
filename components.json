@@ -1,66 +1,66 @@
 {
   "FPC上接连接器_front.jpg": {
-    "name": "FPC上接连接器",
-    "description": "一种柔性印刷电路板（FPC）连接器，常用于连接显示屏、摄像头等模块到主板，提供可靠的高速信号传输。"
+    "name": "FPC Top-Mount Connector",
+    "description": "A flexible printed circuit (FPC) connector, commonly used to connect displays, cameras, and other modules to the mainboard, providing reliable high-speed signal transmission."
   },
   "FPC上接连接器_back.jpg": {
-    "name": "FPC上接连接器",
-    "description": "一种柔性印刷电路板（FPC）连接器，常用于连接显示屏、摄像头等模块到主板，提供可靠的高速信号传输。"
+    "name": "FPC Top-Mount Connector",
+    "description": "A flexible printed circuit (FPC) connector, commonly used to connect displays, cameras, and other modules to the mainboard, providing reliable high-speed signal transmission."
   },
   "麦克风_front.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "麦克风_back.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "麦克风_front1.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "麦克风_front2.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "麦克风_front3.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "麦克风_front4.jpg": {
-    "name": "麦克风",
-    "description": "将声音转换为电信号的元件，常用于音频采集、语音识别等场景。"
+    "name": "Microphone",
+    "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
   "接插件连接器端子_front.jpg": {
-    "name": "接插件连接器端子",
-    "description": "一种电气连接器端子，用于在电路板之间或与外部设备建立可拆卸的电连接。"
+    "name": "Connector Terminal",
+    "description": "An electrical connector terminal used to establish a detachable electrical connection between circuit boards or external devices."
   },
   "接插件连接器端子_back.jpg": {
-    "name": "接插件连接器端子",
-    "description": "一种电气连接器端子，用于在电路板之间或与外部设备建立可拆卸的电连接。"
+    "name": "Connector Terminal",
+    "description": "An electrical connector terminal used to establish a detachable electrical connection between circuit boards or external devices."
   },
   "esp32_board_front.jpg": {
     "name": "ESP32 Board",
-    "description": "一款集成 Wi-Fi 和蓝牙的微控制器开发板，广泛用于物联网、嵌入式系统和机器人项目。"
+    "description": "A microcontroller development board with integrated Wi-Fi and Bluetooth, widely used in IoT, embedded systems, and robotics projects."
   },
   "esp32_board_back.jpg": {
     "name": "ESP32 Board",
-    "description": "一款集成 Wi-Fi 和蓝牙的微控制器开发板，广泛用于物联网、嵌入式系统和机器人项目。"
+    "description": "A microcontroller development board with integrated Wi-Fi and Bluetooth, widely used in IoT, embedded systems, and robotics projects."
   },
   "type_c_usb_port_front.jpg": {
-    "name": "Type-C USB Port（供电使用）",
-    "description": "一种 USB Type-C 接口，用于供电或数据传输，具有正反可插特性，常用于现代电子设备。"
+    "name": "Type-C USB Port (Power Supply)",
+    "description": "A USB Type-C connector used for power supply or data transfer, featuring reversible plug orientation and widely used in modern electronic devices."
   },
   "type_c_usb_port_back.jpg": {
-    "name": "Type-C USB Port（供电使用）",
-    "description": "一种 USB Type-C 接口，用于供电或数据传输，具有正反可插特性，常用于现代电子设备。"
+    "name": "Type-C USB Port (Power Supply)",
+    "description": "A USB Type-C connector used for power supply or data transfer, featuring reversible plug orientation and widely used in modern electronic devices."
   },
   "轻触开关_front.jpg": {
-    "name": "轻触开关",
-    "description": "一种小型瞬时按键开关，常用于用户输入控制，例如复位键或功能键。"
+    "name": "Tactile Switch",
+    "description": "A small momentary push button switch, commonly used for user input control such as reset buttons or function keys."
   },
   "轻触开关_back.jpg": {
-    "name": "轻触开关",
-    "description": "一种小型瞬时按键开关，常用于用户输入控制，例如复位键或功能键。"
+    "name": "Tactile Switch",
+    "description": "A small momentary push button switch, commonly used for user input control such as reset buttons or function keys."
   }
 }
