@@ -46,13 +46,15 @@ def identify_component(upload_path, standard_folder):
     if best_match:
         component_name = os.path.splitext(best_match)[0]
         explanation = f"This appears to be '{component_name}'. Please let the LLM describe its function."
+        description = match_info.get("description", "Description not available.")
         match_url = f"{request.url_root}standard_components/{best_match}"
         return {
             "component": component_name,
             "match_image": best_match,
             "match_image_url": match_url,
             "similarity_score": round(best_score, 3),
-            "explanation": explanation
+            "explanation": explanation,
+            "description": description
         }
     else:
         return {"error": "No match found"}
