@@ -52,9 +52,22 @@ def identify_component(upload_path, standard_folder):
 
     if best_match:
         component_name = os.path.splitext(best_match)[0]
-        match_info = COMPONENT_INFO.get(component_name, {})
+
+        # ---- NEW: try multiple extension lookups ----
+        match_info = COMPONENT_INFO.get(best_match, {})
+        if not match_info:
+            # Try filename without extension + .jpg / .png
+            for ext in [".jpg", ".png", ".jpeg"]:
+                key = component_name + ext
+                if key in COMPONENT_INFO:
+                    match_info = COMPONENT_INFO[key]
+                    break
+        if not match_info:
+            # Try just the base name (no extension) as a key
+            match_info = COMPONENT_INFO.get(component_name, {})
+
         description = match_info.get("description", "Description not available.")
-        
+
         explanation = f"This appears to be '{component_name}'. Please let the LLM describe its function."
         match_url = f"{request.url_root}standard_components/{best_match}"
         return {
