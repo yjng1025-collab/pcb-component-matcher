@@ -1,65 +1,65 @@
 {
-  "FPC上接连接器_front.jpg": {
+  "FPC上接连接器_front.png": {
     "name": "FPC Top-Mount Connector",
     "description": "A flexible printed circuit (FPC) connector, commonly used to connect displays, cameras, and other modules to the mainboard, providing reliable high-speed signal transmission."
   },
-  "FPC上接连接器_back.jpg": {
+  "FPC上接连接器_back.png": {
     "name": "FPC Top-Mount Connector",
     "description": "A flexible printed circuit (FPC) connector, commonly used to connect displays, cameras, and other modules to the mainboard, providing reliable high-speed signal transmission."
   },
-  "麦克风_front.jpg": {
+  "麦克风_front.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "麦克风_back.jpg": {
+  "麦克风_back.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "麦克风_front1.jpg": {
+  "麦克风_front1.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "麦克风_front2.jpg": {
+  "麦克风_front2.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "麦克风_front3.jpg": {
+  "麦克风_front3.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "麦克风_front4.jpg": {
+  "麦克风_front4.png": {
     "name": "Microphone",
     "description": "A component that converts sound into electrical signals, commonly used for audio capture, voice recognition, and related applications."
   },
-  "接插件连接器端子_front.jpg": {
+  "接插件连接器端子_front.png": {
     "name": "Connector Terminal",
     "description": "An electrical connector terminal used to establish a detachable electrical connection between circuit boards or external devices."
   },
-  "接插件连接器端子_back.jpg": {
+  "接插件连接器端子_back.png": {
     "name": "Connector Terminal",
     "description": "An electrical connector terminal used to establish a detachable electrical connection between circuit boards or external devices."
   },
-  "esp32_board_front.jpg": {
+  "esp32_board_front.png": {
     "name": "ESP32 Board",
     "description": "A microcontroller development board with integrated Wi-Fi and Bluetooth, widely used in IoT, embedded systems, and robotics projects."
   },
-  "esp32_board_back.jpg": {
+  "esp32_board_back.png": {
     "name": "ESP32 Board",
     "description": "A microcontroller development board with integrated Wi-Fi and Bluetooth, widely used in IoT, embedded systems, and robotics projects."
   },
-  "type_c_usb_port_front.jpg": {
+  "type_c_usb_port_front.png": {
     "name": "Type-C USB Port (Power Supply)",
     "description": "A USB Type-C connector used for power supply or data transfer, featuring reversible plug orientation and widely used in modern electronic devices."
   },
-  "type_c_usb_port_back.jpg": {
+  "type_c_usb_port_back.png": {
     "name": "Type-C USB Port (Power Supply)",
     "description": "A USB Type-C connector used for power supply or data transfer, featuring reversible plug orientation and widely used in modern electronic devices."
   },
-  "轻触开关_front.jpg": {
+  "轻触开关_front.png": {
     "name": "Tactile Switch",
     "description": "A small momentary push button switch, commonly used for user input control such as reset buttons or function keys."
   },
-  "轻触开关_back.jpg": {
+  "轻触开关_back.png": {
     "name": "Tactile Switch",
     "description": "A small momentary push button switch, commonly used for user input control such as reset buttons or function keys."
   }
